@@ -1,7 +1,7 @@
 # CEN-3024-Module-2
 **Library System Code**
 ## Folder Structure
---Library System--
+-Library System--
   -.gitnore
   -Library System.iml
   -Members.txt
