@@ -3,9 +3,9 @@
 ## Folder Structure
   # Library System--
   
-  -.gitnore
+  - .gitnore
   
-  -Library System.iml
+  - Library System.iml
   
   - Members.txt
 -
