@@ -3,8 +3,8 @@
 
 This Repository has a copy of the console program.
 
-##**Main App:** LibraryApp
-##**Txt File:** "Members.txt"
+##Main App: **LibraryApp**
+##Txt File:**"Members.txt"**
 
 ##Attributes for Members:
 #Member ID- is (String) can only be 7 digits.
