@@ -1,18 +1,16 @@
 # CEN-3024-Module-2
 **Library System Code**
 ## Folder Structure
-
 --Library System--
-
-*.gitnore
-*-Library System.iml
-*-Members.txt
+  -.gitnore
+  -Library System.iml
+  -Members.txt
 -
-- - SRC
-  - LibraryApp
-  - Members
-  - MembershipSystem
-  - 
+- -- SRC
+   - LibraryApp
+   - Members
+   - MembershipSystem
+   - 
 
 This Repository has a copy of the console program.
 
