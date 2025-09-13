@@ -4,9 +4,9 @@
 
 --Library System--
 
--.gitnore
--Library System.iml
--Members.txt
+*.gitnore
+*-Library System.iml
+*-Members.txt
 -
 - - SRC
   - LibraryApp
