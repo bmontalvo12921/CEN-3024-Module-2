@@ -1,6 +1,8 @@
 # CEN-3024-Module-2
-Library System Code
+**Library System Code**
+
 This Repository has a copy of the console program.
+
 Main App: LibraryApp
 Txt File: "Members.txt"
 Attributes for Members:
@@ -8,4 +10,8 @@ Attributes for Members:
 *Full member name (String)
 *Address (String)
 *Fine (double) no '$' symbol.
-You can add, remove and display all existing or created members.
+
+## Features:
+Add, 
+Remove,
+Display all existing or created members.
